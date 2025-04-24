@@ -1,5 +1,5 @@
 # magic_8_balls
-![demo](/assets/demo.png)
+![demo](/images/demo.png)
 
 ## Getting Started
 
